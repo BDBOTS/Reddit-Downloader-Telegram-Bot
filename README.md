@@ -1,6 +1,4 @@
-  Reddit Video Downloader Telegram Bot | BDBOTS body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; } h1, h2, h3 { color: #2c3e50; } h1 { border-bottom: 2px solid #3498db; padding-bottom: 10px; } h2 { border-bottom: 1px solid #eee; padding-bottom: 5px; margin-top: 30px; } code { background-color: #f5f5f5; padding: 2px 5px; border-radius: 3px; font-family: 'Courier New', Courier, monospace; } pre { background-color: #f5f5f5; padding: 15px; border-radius: 5px; overflow-x: auto; } a { color: #3498db; text-decoration: none; } a:hover { text-decoration: underline; } .badge { display: inline-block; padding: 3px 7px; background-color: #3498db; color: white; border-radius: 3px; font-size: 0.8em; margin-right: 5px; } .screenshot-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0; } .screenshot { border: 1px solid #ddd; border-radius: 5px; overflow: hidden; } .screenshot img { width: 100%; height: auto; } .screenshot-caption { padding: 10px; background-color: #f9f9f9; text-align: center; } .credits { background-color: #f9f9f9; padding: 15px; border-radius: 5px; margin-top: 30px; } .footer { text-align: center; margin-top: 40px; padding-top: 20px; border-top: 1px solid #eee; color: #7f8c8d; }
-
-🔴 Reddit Video Downloader Telegram Bot
+🔴 Reddit Video Downloader Telegram Bot | BDBOTS
 =======================================
 
 ![BDBOTS Logo](https://i.imgur.com/J8hqZ2W.png)
